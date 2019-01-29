@@ -25,6 +25,16 @@ namespace ForkStart_Group
             Debug.WriteLine("Hello World from Manisha Nln");
             // team member C's content goes here
 
+<<<<<<< HEAD
         }
+=======
+      // team member C's content goes here
+
+
+      //added team member #4 for Collaboration Exercise
+      Debug.WriteLine("Hello World from Shawna Buck");
+
+    }
+>>>>>>> e88271e19cd1d02ced7464644859006cce5eceea
   }
 }
